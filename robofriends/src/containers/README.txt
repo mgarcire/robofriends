@@ -1,0 +1,1 @@
+The files that are contained here are the components that have state (smart components).
